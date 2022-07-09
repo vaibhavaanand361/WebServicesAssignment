@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: shipment-service
+
+eureka:
+  instance:
+    hostname: localhost
